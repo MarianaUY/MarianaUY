@@ -9,7 +9,7 @@
 - Desenvolvedora em formação com foco em backend  <br><br>
 
 
-  <summary>Learning 📖</summary> <br>
+<summary>Learning 📖</summary> <br>
 
 - atualmente estudando Java, Spring Boot e banco de dados <br>  
 - aprendendo lógica de programação, APIs e Git/GitHub  
